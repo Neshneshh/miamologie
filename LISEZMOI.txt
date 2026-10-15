@@ -1,0 +1,13 @@
+MIAMOLOGIE - mise en ligne gratuite (GitHub Pages)
+
+1. Crée un compte gratuit sur github.com.
+2. Clique sur "+" puis "New repository". Nom : miamologie. Laisse "Public". Crée-le.
+3. Clique sur "uploading an existing file", glisse TOUT le contenu de ce dossier
+   (index.html, sw.js, manifest.webmanifest et le dossier icons), puis "Commit changes".
+4. Va dans Settings > Pages. Source : "Deploy from a branch", branche "main", dossier "/ (root)". Enregistre.
+5. Après 1 à 2 minutes, ton appli est sur https://TONPSEUDO.github.io/miamologie/
+6. Sur iPhone, ouvre ce lien dans Safari > bouton Partager > "Sur l'écran d'accueil".
+
+Mettre à jour : remplace index.html par la nouvelle version dans le dépôt (Add file > Upload files).
+Sauvegarde : Profil > Sauvegarde > "Exporter mes donnees" de temps en temps.
+Alternative aussi gratuite : glisse ce dossier sur app.netlify.com/drop.
